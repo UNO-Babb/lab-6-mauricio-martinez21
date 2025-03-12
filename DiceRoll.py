@@ -6,7 +6,7 @@ import random
 
 def main():
   #Create an empty list with possible roll values
-  rolls = [0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+  rolls = [0,0,0,0,0,0,0,0,0,0,0,0,0,0] 
   #Create two dice values ranging from 1 - 6 each
   numRolls=10000
   for count in range(10000):
